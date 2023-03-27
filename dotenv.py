@@ -1,0 +1,6 @@
+def load_dotenv():
+    import os
+    
+    REFRESH_TOKEN= '  '
+    CONSUMER_KEY='CLIFWQTIZ6EBH0BD3BVY4TASYUXMINAN'
+    ACCOUNT_ID='235471191'
